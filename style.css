@@ -13,7 +13,7 @@
 main {
     width: 100%;
 }
-div.logo-smallDevice,
+h2 > a.teamwork-Logo2,
 div.menu-wrap,
 div.hamburger,
 div.menu {
@@ -675,7 +675,7 @@ div.fb {
 
 @media (max-width: 768px) {
 
-    h2 > a.teamwork-Logo,
+    h2 > a.teamwork-Logo2,
     div.menu-wrap,
     div.hamburger,
     div.menu {
